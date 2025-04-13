@@ -278,6 +278,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
   // console.log(theTetrominoes);
+  // console.log(theTetrominoes);
 
   // console.log(theTetrominoes);
 });
